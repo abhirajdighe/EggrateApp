@@ -1,0 +1,79 @@
+.outer{
+    /* width: 100%; */
+    padding:50px;
+    /* height: 400px; */
+    background-color: black;
+
+}
+
+.inner{
+    margin: 0 auto;
+    padding: 10px;
+    transform: translateY('-50%');
+    position: relative;
+    width: 400px;
+    /* height: 20px; */
+    top: 40%;
+    background-color:white;
+}
+
+input{
+    width: 90%;
+}
+
+.adi{
+    position: relative;
+    padding: 10%;
+    /* padding-left: 30%; */
+    transform: translateY('-50%');
+    width: 100%;
+}
+
+.h1{
+    margin-left:30%;
+}
+
+/* hr{
+    position: relative;
+    width: 30%;
+    left:30%;
+} */
+
+.btn{
+    margin-left:40%;
+}
+
+#foot{
+    width: 100%;
+    position: absolute;
+   /* background-color: black; */
+   
+}
+
+
+
+ul{
+    
+    background-color: red;
+}
+
+.footbtn{
+    width: 60vw;
+    left:20%;
+    right: 20%;
+    text-align:center;
+}
+
+.ul1{
+    float: left;
+    margin-left: 5%;
+}
+.ul2 h4{
+    /* float: center; */
+    width: 20vw;
+    margin-left:40%
+}
+.ul3{
+    float: right;
+    margin-right: 5%;
+}
